@@ -1,2 +1,1 @@
-# coderabbit-test
-coderabbit code review test repository
+# 使用AI生成24点游戏
